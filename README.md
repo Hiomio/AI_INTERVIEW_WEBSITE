@@ -682,5 +682,4 @@ export const dummyInterviews: Interview[] = [
 
 </details>
 
-## Made with ❤️ Vipul Bhatt
 
